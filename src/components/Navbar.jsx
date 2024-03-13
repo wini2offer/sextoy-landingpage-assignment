@@ -7,6 +7,7 @@ const Navbar = () => {
       <header className="App-header">
         <h1>Sex Toys Emporium</h1>
         <nav>
+            {/* links here */}
           <ul>
             <li>
               <a href="#">SHOP ALL</a>

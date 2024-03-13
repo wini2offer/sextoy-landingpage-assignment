@@ -1,22 +1,25 @@
 .footer {
     background-color: purple;
-    color: #fff; /* Light text color */
-    padding: 20px 0; /* Add some padding */
+    color: #fff; 
+    padding: 20px 0; 
+    display: flex;
+    justify-content: center;
   }
+
   
   .footer h4 {
-    color: #fff; /* Light text color for headings */
+    color: #fff; 
   }
   
   .footer p {
-    margin-bottom: 10px; /* Add some space between paragraphs */
+    margin-bottom: 10px;
   }
   
   .footer hr {
-    border-color: #fff; /* Light border color */
+    border-color: #fff; 
   }
   
   .footer .text-center {
-    text-align: center; /* Center-align text */
+    text-align: center; 
   }
   

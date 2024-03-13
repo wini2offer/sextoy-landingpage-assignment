@@ -1,4 +1,4 @@
-/* App.css */
+
 @keyframes bounceIn {
     0% {
       transform: scale(0.1);
@@ -45,35 +45,26 @@
   
   nav ul li {
     display: inline;
-    margin-right: 20px; /* Add spacing between menu items */
+    margin-right: 20px; 
     justify-content: center;
   }
   
   nav ul li:last-child {
-    margin-right: 0; /* Remove margin for the last menu item */
+    margin-right: 0; 
   }
   
-  /* trial */
-  ul {
-    display: flex;
-    /* margin-right: 20px;
-      display: flex;
-      text-decoration: none;
-      font-size: 100; */
-  }
+
+
   
   nav ul li a {
     display: inline-block;
     margin-right: 20px;
     display: flex;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     color: #d45a91;
   }
-  a {
-    text-decoration: none;
-    color: #d45a91;
-  }
+ 
   li :hover {
     color: aquamarine;
   }
@@ -98,10 +89,5 @@
     padding: 20px;
   }
   
-  /* .App h1{
-      font-size: 30px;
-      font-weight: 400;
-     
-      color: plum;
-    } */
+
   

@@ -29,7 +29,7 @@ const Main = () => {
         {showPopup && (
           <div className="popup">
             
-            <button onClick={togglePopup}>Close</button>
+            <button className="closebtn" onClick={togglePopup}>Close</button>
           </div>
         )}
       </section>
@@ -38,12 +38,12 @@ const Main = () => {
         {/* images here */}
         <div>
           <img src="./assets/vib1.jpg" alt="" />
-          <h2>Sucking and licking Vibrator</h2>
+          <h2>Sucking and Licking Vibrator</h2>
           <p>Price: &#8358;48,000</p> <span> OldPrice: &#8358;160,000</span>
         </div>
         <div>
           <img src="./assets/vib2.jpg" alt="" />
-          <h2>Blossom Mouth Rose Vibrator 70k</h2>
+          <h2>Blossom Mouth Rose Vibrator</h2>
           <p>Price: &#8358;51,000</p> <span> OldPrice: &#8358;170,000</span>
         </div>
         <div>
@@ -53,12 +53,12 @@ const Main = () => {
         </div>
         <div>
           <img src="./assets/vib4.jpg" alt="" />
-          <h2>Double licking tongue and thrusting vibrator</h2>
+          <h2>Double Licking Tongue and Thrusting Vibrator</h2>
           <p>Price: &#8358;55,500</p><span> OldPrice: &#8358;170,000</span>
         </div>
         <div>
           <img src="./assets/pantyvib.jpg" alt="" />
-          <h2>Panty Vibrator 50k</h2>
+          <h2>Panty Vibrator </h2>
           <p>Price: &#8358;48,000</p> <span> OldPrice: &#8358;160,000</span>
         </div>
         <div>

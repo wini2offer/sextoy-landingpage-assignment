@@ -1,4 +1,4 @@
-/* Main Hero Section */
+
 .mainHero {
     display: flex;
     flex-direction: column;
@@ -17,10 +17,7 @@
     margin-bottom: 10px;
   }
   
-  /* .hero p {
-    font-size: 1.2rem;
-    margin-bottom: 20px;
-  } */
+ 
   
   .cta-button {
     display: inline-block;
@@ -67,4 +64,5 @@
     color: red;
     text-decoration: line-through;
   }
+ 
   

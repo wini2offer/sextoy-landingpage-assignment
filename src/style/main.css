@@ -1,0 +1,70 @@
+/* Main Hero Section */
+.mainHero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+  }
+  
+  .hero {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .hero h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  /* .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  } */
+  
+  .cta-button {
+    display: inline-block;
+    background-color: pink;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+    border: none;
+  }
+  
+  .cta-button:hover {
+    background-color: purple;
+  }
+  
+  /* Image Section */
+  .image {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .image div {
+    text-align: center;
+  }
+  
+  .image div p {
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+  }
+  .image div h2 {
+    font-size: 20px;
+  }
+  
+  .image div span {
+    color: red;
+    text-decoration: line-through;
+  }
+  
